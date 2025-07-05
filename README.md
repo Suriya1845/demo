@@ -1,10 +1,10 @@
-<!-- index.html -->
 <!DOCTYPE html>
 <html>
-<head>
-  <title>My First Cloud Website</title>
-</head>
-<body>
-  <h1>Hello from Azure + GitHub!</h1>
-</body>
+  <head>
+    <title>Azure Static Web App</title>
+  </head>
+  <body>
+    <h1>வணக்கம் சுரியா! 😊</h1>
+    <p>Azure + GitHub மூலம் உங்கள் Website வெற்றிகரமாக deploy செய்யப்பட்டது!</p>
+  </body>
 </html>
